@@ -1,5 +1,11 @@
 # Welcome to WeCan's Official GitHub Page 
 
+<div align="center">
+  <img src="![wecanlogo](https://github.com/user-attachments/assets/a1a7a8aa-cd12-4940-a86f-56e71afbb9e7)
+" alt="WeCan Logo" width="200" />
+  <p><strong>Learn. Lead. Laugh.</strong></p>
+</div>
+
 ## About WeCan
 
 
