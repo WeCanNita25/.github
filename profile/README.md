@@ -3,9 +3,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a1a7a8aa-cd12-4940-a86f-56e71afbb9e7" alt="WeCan Logo" width="200" />
   <p><strong>Learn. Lead. Laugh.</strong></p>
+ Welcome to WeCan's Official GitHub Page 
 </div>
 
-# Welcome to WeCan's Official GitHub Page 
+
 
 ## About WeCan
 
